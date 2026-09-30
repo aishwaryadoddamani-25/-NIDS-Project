@@ -1,4 +1,4 @@
-Flask>=3.0,<4
-pandas>=2.0,<3
-scikit-learn>=1.4,<2
-gunicorn>=22,<24
+
+streamlit
+pandas
+scikit-learn
